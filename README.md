@@ -55,7 +55,7 @@ Here's a walkthrough of implemented user stories:
 ![img](https://cl.ly/0J1F0H2O162f/Screen%20Recording%202017-04-10%20at%2006.10%20PM.gif)
 
 #### Timeline
-![img](https://cl.ly/0N0D2T2I1L2g/Screen%20Recording%202017-04-10%20at%2006.10%20PM.gif)
+![img](https://cl.ly/1J2p3S1n463B/Screen%20Recording%202017-04-10%20at%2006.11%20PM.gif)
 
 #### Post a new tweet
 ![img](https://cl.ly/07092x3z0600/Screen%20Recording%202017-04-10%20at%2006.03%20PM.gif)
