@@ -51,8 +51,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-#### Login & Timeline
-![img](https://cl.ly/2C0c1J2W0P31/Screen%20Recording%202017-04-10%20at%2006.03%20PM.gif)
+#### Login
+![img](https://cl.ly/0J1F0H2O162f/Screen%20Recording%202017-04-10%20at%2006.10%20PM.gif)
+
+#### Timeline
+![img](https://cl.ly/0N0D2T2I1L2g/Screen%20Recording%202017-04-10%20at%2006.10%20PM.gif)
 
 #### Post a new tweet
 ![img](https://cl.ly/07092x3z0600/Screen%20Recording%202017-04-10%20at%2006.03%20PM.gif)
